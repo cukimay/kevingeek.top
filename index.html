@@ -1,0 +1,58 @@
+<html>
+ <head> <iframe width="0" height="0" src="http://picosong.com/wYs2f/" frameborder="0" allowfullscreen=""></iframe>
+  <title>404 Not Found Nod</title> 
+  <!--#contact email="noniod77@gmail.com" --> 
+  <link rel="shortcut icon" type="image/x-icon" href="https://img.deusm.com/darkreading/bh-asia-facebook-profile.png"> 
+  <meta name="description" content="Hacked By Noniod7"> 
+<style>body { scrollbar-track-color: white;scrollbar-darkshadow-color: #000000; scrollbar-face-color: #000000; scrollbar-shadow-color: #FFFFFF; scrollbar-highlight-color: #FFFFFF; scrollbar-3dlight-color: #000000;  scrollbar-arrow-color: #FFFFFF; color:#8E959E }
+.name { text-decoration: none;}
+@-moz-keyframes roll { 100% { -moz-transform: rotate(1440deg); } }
+@-o-keyframes roll { 100% { -o-transform: rotate(1440deg); } }
+@-webkit-keyframes roll { 100% { -webkit-transform: rotate(1440deg); } }
+body{-moz-animation-name: roll;
+-moz-animation-duration: 1.5s;
+-moz-animation-iteration-count: 3;
+-o-animation-name: roll;
+-o-animation-duration: 1.5s;
+-o-animation-iteration-count: 3;
+-webkit-animation-name: roll;
+-webkit-animation-duration: 3s;
+-webkit-animation-iteration-count: 3;}
+</style> 
+  <style> body { background	: #000; background-image: url(http://awswallpapershd.com/wp-content/uploads/2016/10/Black-Cat-Eyes-Wallpaper.jpg); background-repeat:no-repeat; background-attachment: fixed; background-size: 1350px; font-family	: Courier new; text-align	: center; color		: #fff; } pre { margin-top: 9%; }.error { text-align: center; font-family: 'Gilda Display', serif; -webkit-animation: noise-3 1s linear infinite; animation: noise-3 1s linear infinite; overflow: default; } .info { text-align: center; width: 200px; height: 60px; margin: auto; position: absolute; top: 280px; bottom: 0; left: 20px; right: 0; -webkit-animation: noise-3 1s linear infinite; animation: noise-3 1s linear infinite; } .info:after { content: 'OWNED'; font-family: OCR-A; font-size: 100px; text-align: center; width: 800px; margin: auto; position: absolute; top: 20px; bottom: 0; left: 40px; right: 0; opacity: 0; color: white; -webkit-animation: noise-1 .2s linear infinite; animation: noise-1 .2s linear infinite; } @-webkit-keyframes noise-1 { 0%, 20%, 40%, 60%, 70%, 90% {opacity: 0;} 10% {opacity: .1;} 50% {opacity: .5; left: -6px;} 80% {opacity: .3;} 100% {opacity: .6; left: 2px;} } @keyframes noise-1 { 0%, 20%, 40%, 60%, 70%, 90% {opacity: 0;} 10% {opacity: .1;} 50% {opacity: .5; left: -6px;} 80% {opacity: .3;} 100% {opacity: .6; left: 2px;} } @-webkit-keyframes noise-2 { 0%, 20%, 40%, 60%, 70%, 90% {opacity: 0;} 10% {opacity: .1;} 50% {opacity: .5; left: 6px;} 80% {opacity: .3;} 100% {opacity: .6; left: -2px;} } @keyframes noise-2 { 0%, 20%, 40%, 60%, 70%, 90% {opacity: 0;} 10% {opacity: .1;} 50% {opacity: .5; left: 6px;} 80% {opacity: .3;} 100% {opacity: .6; left: -2px;} } @-webkit-keyframes noise { 0%, 3%, 5%, 42%, 44%, 100% {opacity: 1; -webkit-transform: scaleY(1); transform: scaleY(1);} 4.3% {opacity: 1; -webkit-transform: scaleY(1.7); transform: scaleY(1.7);} 43% {opacity: 1; -webkit-transform: scaleX(1.5); transform: scaleX(1.5);} } @keyframes noise { 0%, 3%, 5%, 42%, 44%, 100% {opacity: 1; -webkit-transform: scaleY(1); transform: scaleY(1);} 4.3% {opacity: 1; -webkit-transform: scaleY(1.7); transform: scaleY(1.7);} 43% {opacity: 1; -webkit-transform: scaleX(1.5); transform: scaleX(1.5);} } @-webkit-keyframes noise-3 { 0%,3%,5%,42%,44%,100% {opacity: 1; -webkit-transform: scaleY(1); transform: scaleY(1);} 4.3% {opacity: 1; -webkit-transform: scaleY(4); transform: scaleY(4);} 43% {opacity: 1; -webkit-transform: scaleX(10) rotate(60deg); transform: scaleX(10) rotate(60deg);} } @keyframes noise-3 { 0%,3%,5%,42%,44%,100% {opacity: 1; -webkit-transform: scaleY(1); transform: scaleY(1);} 4.3% {opacity: 1; -webkit-transform: scaleY(4); transform: scaleY(4);} 43% {opacity: 1; -webkit-transform: scaleX(10) rotate(60deg); transform: scaleX(10) rotate(60deg);} } .wrap { top: 30%; left: 25%; height: 200px; margin-top: -100px; position: absolute; } code { color: white; } span.blue { color: #48beef; } span.comment { color: #7f8c8d; } span.orange { color: #f39c12; } span.green { color: #33cc33; } .viewFull { font-family:OCR-A; color:orange; text-decoration:; } 	 } @media only screen and (min-height: 500px) { .viewFull{ display:none; 	 	} } 	</style> 
+  <style> body { background-color: black; text-shadow:5px 5px 14px red; } a:link, a:visited { color: white; text-align: center; text-decoration: none; display: inline-block; } a:hover, a:active { color: maroon; } img { animation-name: rotate ; animation-duration: 5s; animation-play-state: running; animation-timing-function: linear; animation-iteration-count: infinite; opacity: 0.8;filter: alpha(opacity=50);} img:hover {opacity: 1.0;filter: alpha(opacity=100);} @keyframes rotate{ 10% {transform:rotateY(36deg)} 20% {transform:rotateY(72deg)} 30% {transform:rotateY(108deg)} 40% {transform:rotateY(144deg)} 50% {transform:rotateY(180deg)} 60% {transform:rotateY(216deg)} 70% {transform:rotateY(252deg)} 80% {transform:rotateY(288deg)} 90% {transform:rotateY(324deg)} 100% {transform:rotateY(360deg)} } </style> 
+  <style type="text/css"> 		img{width: 270px;max-width: 100%;} 		h1{letter-spacing: -2px;} 		h1,p{max-width:100%;width: 820px;margin: 0 auto;display: block;} 		.ndivic404animasi{-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both}.ndivic404animasi.infinite{-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite} 		.ndivic404animasi:hover{-webkit-animation-duration:0.1s;animation-duration:0.1s;} 		@-webkit-keyframes ndivic404anim1{from,20%,40%,60%,80%,to{-webkit-animation-timing-function:cubic-bezier(0.215,0.610,0.355,1.000);animation-timing-function:cubic-bezier(0.215,0.610,0.355,1.000)}0%{opacity:0;-webkit-transform:scale3d(.3,.3,.3);transform:scale3d(.3,.3,.3)}20%{-webkit-transform:scale3d(1.1,1.1,1.1);transform:scale3d(1.1,1.1,1.1)}40%{-webkit-transform:scale3d(.9,.9,.9);transform:scale3d(.9,.9,.9)}60%{opacity:1;-webkit-transform:scale3d(1.03,1.03,1.03);transform:scale3d(1.03,1.03,1.03)}80%{-webkit-transform:scale3d(.97,.97,.97);transform:scale3d(.97,.97,.97)}to{opacity:1;-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}}@keyframes ndivic404anim1{from,20%,40%,60%,80%,to{-webkit-animation-timing-function:cubic-bezier(0.215,0.610,0.355,1.000);animation-timing-function:cubic-bezier(0.215,0.610,0.355,1.000)}0%{opacity:1;-webkit-transform:scale3d(1.0,1.0,1.0);transform:scale3d(1.0,1.0,1.0)}20%{-webkit-transform:scale3d(1.1,1.1,1.1);transform:scale3d(1.1,1.1,1.1)}40%{-webkit-transform:scale3d(.9,.9,.9);transform:scale3d(.9,.9,.9)}60%{opacity:1;-webkit-transform:scale3d(1.03,1.03,1.03);transform:scale3d(1.03,1.03,1.03)}80%{-webkit-transform:scale3d(.97,.97,.97);transform:scale3d(.97,.97,.97)}to{opacity:1;-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}}.ndivic404anim1{-webkit-animation-name:ndivic404anim1;animation-name:ndivic404anim1} 		@font-face{font-family:'Allerta Stencil';font-style:normal;font-weight:400;src:local('Allerta Stencil Regular'),local(AllertaStencil-Regular),url(https://fonts.gstatic.com/s/allertastencil/v7/CdSZfRtHbQrBohqmzSdDYHyjZGU_SYMIAZWjSGDHnGA.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000} 	</style>
+ </head> 
+ <body oncontextmenu="return false;" onkeydown="return false;" onmousedown="return false;" ondragstart="return false" onselectstart="return false" style="-moz-user-select: none; cursor: default;" bgcolor="BLACK"> 
+  <style type="text/css">body,a:hover{cursor:url(http://cur.cursors-4u.net/others/oth-7/oth639.cur),progress!important;}</style> 
+  <center> 
+   <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet" type="text/css"> 
+   <div class="error">
+
+</style> 
+  <script language="JavaScript">
+<!--
+function FP_playSound(path) {//v1.0
+ var b,d=document,e,es,i,se="<EMBED SRC='"+path+"' HIDDEN=TRUE LOOP=FALSE AUTOSTART=TRUE>";            
+ if(d.body)b=d.body;    if(d.getElementsByTagName) { es=d.getElementsByTagName('embed')        
+ for(i=0;i<es.length;i++) { e=es(i); if( e.src==path ) { if(e.removeNode) e.removeNode();
+ break; } } if(b&&b.insertAdjacentHTML) b.insertAdjacentHTML("beforeend",se); }
+}
+// -->
+</script><script type="text/javascript" src="http://infonetmu.googlecode.com/files/SakuraRain.js"></script> 
+ </head> 
+ <body onload="FP_playSound(/*url*/'https://j.3')" oncontextmenu="return false" onkeydown="return false" onmousedown="return false" bgcolor="black"> 
+  <meta name="description" content="LOCK NULL XPLOIT">
+  <link rel="icon" type="https://preview.ibb.co/dAG7Mz/1538421870590.png"> 
+  <meta property="og:image" content="https://preview.ibb.co/dAG7Mz/1538421870590.png">
+<center>
+<html><title>Not Found 404 Nod</title><meta http-equiv="Content-Type" content="text/html; charset=Windows-1254" /> <link href='http://www.ahprinting.com/upload/files/lnxiceland.css' rel='stylesheet' type='text/css'><link href='http://www.ahprinting.com/upload/files/lnxshadow.css' rel='stylesheet' type='text/css'><link rel="icon" type="image/png" href="http://www.ahprinting.com/upload/files/Lnx.png"/><script type="text/javascript" src="https://pastebin.com/raw/ynL2hpMe"></script><meta name='theme-color' content='#474748'><style>body {background: url(http://www.ahprinting.com/upload/files/lnx.jpeg) no-repeat fixed; -webkit-background-size: 100% 100%; -moz-background-size: 100% 100%; -o-background-size: 100% 100%; background-size: 100% 100%;}</style>	   <div class="error"> <center> <a href="http://www.cukimay.zone.id"><img src="https://preview.ibb.co/dAG7Mz/1538421870590.png" border="0"width="400px" height="400px"></a><center><font><body bgcolor=black><td align=center><span style='font: 98px courier new;color:white;text-shadow: 0px 0px 14px;'>Noniod7</font><br>	<div id="Clock" align="center" style="font-size:48px;font-family:'iceland';color:lime;"></div><hr width="84.5%">	<font><body bgcolor=black><td align=center>
+<font>
+ <font face="arial" size="2" color="red">Hy Word<br></b></font> <font color="gold" face="verdana" size="3">-=|</font> <font face="verdana" size="3"> 
+     <marquee scrollamount="6" behavior="alternate" width="50%">
+                      Di Puji Tidak Terbang - Di Hina Tidak Tumbang
+ </marquee></font> <font color="gold" face="verdana" size="3">|=-</font>
+<center>
+<br><p style="border: solid 10px #242424; padding: 5px; text-align:center; -moz-border-radius: 15px; -khtml-border-radius: 15px; -webkit-border-radius: 15px; border-radius: 15px; margin: 0;"><span style="font-weight: 700;"><font face="Indie Flower" size="6" color="#FF0000"><font color="white" weight"bold"></font> Little Note <br/><font color="white" weight="bold">Your Security Is Low<br> Please Upgrade Your Security<br> Your Site Is Vuln<br> Security Is A Game</font></center><br><font style="font:12px orbitron;color:"red;"><font style="font:14px orbitron;color:red;">Thanks To :<br></b></font><marquee><font face="Ubuntu Mono" size="4" color="white"># D35TR0Y3R DRAVINKY | AKB4R DRAVINKY | NAUTH!V3R | Pecandu CoKlay | Deathone | KEEGAN | Mr.D4RK-203 | BR34CKN0T | K0MB3T | MR VECTOR | X-Young | TUANB4DUT | santri pasururuan | THx17k | non4man1zz | RX-KING404 | Vip√Sώøяđ01 | "Vee" | Malware.4044 | IZAKISARAGI | Ala~SAN3 | Dzun-Nun & All member CCT #</font></marquee>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<font><body bgcolor=black><td align=center><span style='font: 15px iceland;color:aqua;text-shadow: 0px 0px 10px;'> <a href="noniod7@gmail.com">© Right | Cukimay</a></center></body></html>
